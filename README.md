@@ -43,7 +43,7 @@ Start the development server:
 Using npm:
 
 bash
-``npm install
+npm install
 
 Or using yarn:
 
