@@ -28,6 +28,8 @@ Ensure that you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-username/invoice-generator.git
    cd invoice-generator
+
+   
 Install dependencies:
 
 Using npm:
@@ -41,7 +43,8 @@ Start the development server:
 Using npm:
 
 bash
-npm start
+``npm install
+
 Or using yarn:
 
 bash
